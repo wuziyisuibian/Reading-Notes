@@ -1,4 +1,4 @@
-# Cpp-Primer Chaptor-01
+# Cpp-Primer Chapter-01
 
 ### 1.1 编写一个简单的C++程序
 函数包含四个部分：<br />

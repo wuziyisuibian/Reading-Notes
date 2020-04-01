@@ -1,4 +1,4 @@
-# Cpp-Primer Chaptor-03
+# Cpp-Primer Chapter-03
 
 **string** <br />
 

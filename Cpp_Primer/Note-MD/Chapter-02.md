@@ -1,4 +1,4 @@
-# Cpp-Primer Chaptor-02
+# Cpp-Primer Chapter-02
 
 C++是一种**静态数据类型语言**，类型检查发生在编译时。**动态数据类型语言**是指类型检查发生在运行时。<br /><br />
 
